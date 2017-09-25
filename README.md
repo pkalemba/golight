@@ -7,7 +7,7 @@ A https://github.com/jeremija/thinklight clone writen in golang
 ### Usage:
 You need to have **root** rights to use this utility
 ```
-Usage of ./thinklight:                              
+Usage of thinklight:                              
   -interval int                                     
         Milliseconds between blinks (default 300)   
   -times int                                        
